@@ -98,7 +98,7 @@ Once trained, the model output can be used for a range of downstream analyses, i
 ### Putting MOFA in nextflow
 
 When putting MOFA in nextflow, it is important to addapt the script for compatibility. One of the things is to add a “\” before the “$” of the in script variables.
-
+xkhvsd
 ## Technical procedures
 
 ## Results
